@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HeyLooouis
 - 👀 I’m interested in Web Development/Frontend Dev
 - 🌱 I’m currently learning API's
-- 💞️ I’m looking to collaborate on Web Design
+- 💞️ I’m looking to collaborate on Web Design Projects
 - 📫 How to reach me hello@louisamezah.co.uk
 
 <!---
